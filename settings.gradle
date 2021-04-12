@@ -1,0 +1,3 @@
+include ':custommath'
+include ':app'
+rootProject.name = "MavenPublish"
